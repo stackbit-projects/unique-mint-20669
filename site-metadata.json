@@ -63,7 +63,7 @@
                 "label": "DEV",
                 "url": "https://dev.to/",
                 "style": "icon",
-                "icon_class": "github",
+                "icon_class": "dev",
                 "new_window": true
             }
         ]
