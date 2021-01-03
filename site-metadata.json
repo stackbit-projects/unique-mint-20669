@@ -62,7 +62,7 @@
             {
                 "label": "DEV",
                 "url": "https://dev.to/",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
             }
